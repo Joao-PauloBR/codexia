@@ -1,6 +1,8 @@
 # codexia
 
-Aplicativo de lista de leitura utilizando Flutter, a API do Google Books e SQLite. O aplicativo permite o gerenciamento e armazenamento através de uma interface intuitiva e amigável. A lista de leitura fica armazenada numa Biblioteca local (salva através do SQLite).
+Aplicativo de lista de leitura utilizando Flutter, a API do Google Books e SQLite. O aplicativo
+permite o gerenciamento e armazenamento através de uma interface intuitiva e amigável. A lista de
+leitura fica armazenada numa Biblioteca local (salva através do SQLite).
 
 ## Getting Started
 

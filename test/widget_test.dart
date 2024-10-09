@@ -1,7 +1,7 @@
-import 'package:flutter/material.dart';
-import 'package:flutter_test/flutter_test.dart';
 import 'package:codexia/my_app.dart';
 import 'package:codexia/services/library_service.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_test/flutter_test.dart';
 
 class MockLibraryService extends LibraryService {
   // Implemente métodos ou propriedades mockadas, se necessário

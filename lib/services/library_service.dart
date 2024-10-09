@@ -1,6 +1,7 @@
+import 'package:logger/logger.dart';
+
 import '../models/book.dart';
 import 'database_helper.dart';
-import 'package:logger/logger.dart';
 
 final Logger logger = Logger();
 

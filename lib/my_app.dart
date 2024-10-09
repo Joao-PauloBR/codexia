@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'services/library_service.dart';
-import 'screens/main_screen.dart';
+
 import 'global_wrapper.dart';
+import 'screens/main_screen.dart';
+import 'services/library_service.dart';
 
 class MyApp extends StatelessWidget {
   final LibraryService libraryService;
