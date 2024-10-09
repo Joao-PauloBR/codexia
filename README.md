@@ -1,6 +1,4 @@
-# Codexia
-
-## Descrição
+## Codexia
 Codexia é um aplicativo de gerenciamento de lista de leitura desenvolvido em Flutter. Ele permite aos usuários pesquisar livros utilizando a API do Google Books, adicionar títulos a uma lista de leitura pessoal e gerenciar essa lista através de uma interface intuitiva e amigável.
 
 ## Funcionalidades Principais
